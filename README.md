@@ -1,11 +1,5 @@
 # Book Your Show
 
-<h3 align="center">
-  Book Your Show Website preview <br/>
-  <a href="https://book-your-show-ui.onrender.com/" target="_blank"><img alt="Demo" src="./redme-Img.png" /> </a>
-</h3>
-
-<br>
 <h5>Welcome to our Ticket Booking website! Here, you can easily book a movie for a great cinematic experience. Let me guide you through the process:
 
 Select Movie: Browse through our selection of movies. Click on the one you want to watch.
