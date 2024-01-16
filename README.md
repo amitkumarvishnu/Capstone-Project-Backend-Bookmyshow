@@ -27,28 +27,28 @@ Remember, your booked movies are securely stored in our database for your refere
 
 
 ## 📖 Website's Live URL  
-    
+    bookmyshow12.netlify.app
 
 
-## ⭐ Technologies that are used.
+## Technologies that are used.
 
 ### FrontEnd
 - #### React  
     This app is fully built on top of react library.
-- #### Axios / Fetch
+- ## Axios / Fetch
     Used for making api calls.
-- #### Context API
+- ## Context API
     for managing states and props.
-- #### var()
+- ## var()
     for global color.
-- #### React-Toastify
+- ## React-Toastify
     for showing Success alert on booking sucessfully  and error alert for any error to user.
     
-## 🔹 aditionally 
+##  aditionally 
 -   I have used Canva for Background Image
 
 
-## 🛠 Installation and Setup Instructions
+##  Installation and Setup Instructions
 
 1. Installation: `npm install`
 
